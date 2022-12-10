@@ -23,7 +23,6 @@ const handleSearch=()=>{
   weatherApi(inputCity)
 }
 
-console.log(datas)
   return (
     <div className="App">
       <nav className="navbar navbar-dark bg-primary text-center">
